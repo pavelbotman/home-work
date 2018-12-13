@@ -1,0 +1,26 @@
+
+
+
+/*@media screen and (min-width: 480px) and (max-width: 1200px){
+    
+}
+*/
+
+@media only screen and (max-width: 767px) {
+    .box, .box1{
+
+
+
+}
+
+
+@media only screen and (max-width: 375px) {
+    .box{
+
+    }
+}
+
+}
+
+
+
