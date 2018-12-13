@@ -19,6 +19,18 @@ ul {
     border-right: solid 3px;
     padding-top: 10px;
 }
+ul:first-child {
+    border-color: #1f2c39;
+}
+ul:nth-child(2) {
+    border-color: #03246c;
+}
+ul:nth-child(3) {
+    border-color: #028090;
+}
+ul:last-child {
+    border-color: #28aeaf;
+}
 
 
 
